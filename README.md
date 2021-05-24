@@ -1,4 +1,4 @@
-# dajango-24-practice
+# DJANGO10AM
 dummy text
 IN THIS REPO I WILL MAINTAIN ALL THE FILES OF DJANGO
 # TOPICS
